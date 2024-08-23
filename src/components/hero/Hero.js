@@ -29,6 +29,12 @@ const Hero = ({books}) => {
                                     <div className="book-title">
                                         <h4>{book.title}</h4>
                                     </div>
+                                    <div className="book-title">
+                                        <h6>Author: {book.author}</h6>
+                                    </div>
+                                    <div className="book-title">
+                                        <h6>Genre: {book.genre}</h6>
+                                    </div>
                                     <div>
                                         <div>
                                             <Button variant="outline-info" onClick={() => reviews(book.grId)}>Reviews</Button>
