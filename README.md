@@ -9,8 +9,9 @@ This project is a review application developed using React and Spring Boot, inte
 
 ## Requirements
 
-- **Java:** 17 or later
-- **Maven:** 
+
+- **Node.js** 16 or later
+- **npm (Node Package Manager)**
 - **MongoDB:** Database management system
 
 ## Contact
@@ -19,6 +20,6 @@ This project is a review application developed using React and Spring Boot, inte
 - **GitHub Profile:** ipekgungor
 
 ## Notes
-- **Be careful about the java and eclipse versions.** My Eclipse version: 2024-06 (4.32.0) / My Java version: java 22.0.
+- **Be careful about the node and npm versions.** My node version: v20.15.1 / My npm version: 10.4.0
 - **You can find books.json in src/main/resources/data**
 - **I solved the CORS problem using ngrok. You can find the configuration in the axiosConfig.js file. Ngrok allows you to create an account and start using it by entering the command ngrok http 8080.** 
