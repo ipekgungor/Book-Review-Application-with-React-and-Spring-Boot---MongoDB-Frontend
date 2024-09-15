@@ -8,11 +8,36 @@ This project is a review application developed using React and Spring Boot, inte
 - **Reviews Page:** Make and displays reviews associated with each book.
 
 ## Requirements
-
-
 - **Node.js** 16 or later
 - **npm (Node Package Manager)**
 - **MongoDB:** Database management system
+
+## Installation Instructions
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ipekgungor/Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Frontend.git
+2. Navigate to the Project Directory:
+   ```bash
+   cd Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Frontend.git
+3. Install Dependencies:
+   ```bash
+   npm install
+4. Run the Application:
+   ```bash
+   npm start
+5. Other packages
+   ```bash
+   npm install axios
+   npm install bootstrap
+   npm install react-bootstrap
+   npm install @fortawesome/react-fontawesome
+   npm install react-router-dom
+   npm install @mui/material @emotion/react @emotion/styled
+   npm install react-material-ui-carousel
+      
 
 ## Contact
 - **Developer:** İpek Güngör
