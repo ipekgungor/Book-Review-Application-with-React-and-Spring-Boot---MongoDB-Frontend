@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/ipekgungor/Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Frontend.git
 2. Navigate to the Project Directory:
    ```bash
-   cd Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Frontend.git
+   cd Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Frontend
 3. Install Dependencies:
    ```bash
    npm install
