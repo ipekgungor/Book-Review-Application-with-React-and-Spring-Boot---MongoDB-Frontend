@@ -24,12 +24,6 @@ To run this project locally, follow these steps:
    cd Book-Review-Application-with-React-and-Spring-Boot---MongoDB-Frontend
 3. Install Dependencies:
    ```bash
-   npm install
-4. Run the Application:
-   ```bash
-   npm start
-5. Other packages
-   ```bash
    npm install axios
    npm install bootstrap
    npm install react-bootstrap
@@ -37,8 +31,10 @@ To run this project locally, follow these steps:
    npm install react-router-dom
    npm install @mui/material @emotion/react @emotion/styled
    npm install react-material-ui-carousel
+4. Run the Application:
+   ```bash
+   npm start
       
-
 ## Contact
 - **Developer:** İpek Güngör
 - **Email:** ipekgungor2001@gmail.com
